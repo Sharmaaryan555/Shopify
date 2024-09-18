@@ -1,0 +1,14 @@
+com\mycompany\shopify\servlets\ProductOperationServlet.class
+com\mycompany\shopify\JakartaRestConfiguration.class
+com\mycompany\shopify\dao\UserDao.class
+com\mycompany\shopify\helper\Helper.class
+com\mycompany\shopify\entities\Category.class
+com\mycompany\shopify\entities\User.class
+com\mycompany\shopify\dao\CategoryDao.class
+com\mycompany\shopify\helper\FactoryProvider.class
+com\mycompany\shopify\servlets\LogoutServlet.class
+com\mycompany\shopify\dao\ProductDao.class
+com\mycompany\shopify\servlets\RegisterServlet.class
+com\mycompany\shopify\servlets\LoginServlet.class
+com\mycompany\shopify\entities\Product.class
+com\mycompany\shopify\resources\JakartaEE10Resource.class
